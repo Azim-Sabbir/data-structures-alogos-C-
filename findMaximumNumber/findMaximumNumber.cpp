@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void search(const int arr[], int sizeOfArr) {
+void FindMaximumNumber(const int arr[], int sizeOfArr) {
     int maxNumber = 1;
 
     for (int i = 0; i < sizeOfArr; i++) {
@@ -28,7 +28,7 @@ int main() {
         cin >> arr[i];
     }
 
-    search(arr, sizeOfArr);
+    FindMaximumNumber(arr, sizeOfArr);
 
     return 0;
 }
