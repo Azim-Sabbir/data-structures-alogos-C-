@@ -1,0 +1,5 @@
+# ninja log v5
+0	256	1640448146903070967	CMakeFiles/linear_search.dir/linearSearch.cpp.o	f4fe587909cc525
+256	327	1640448146975069844	linear_search	6facd51cfcc80635
+0	319	1640448240753608995	CMakeFiles/linear_search.dir/linearSearch.cpp.o	f4fe587909cc525
+319	383	1640448240861607316	linear_search	6facd51cfcc80635

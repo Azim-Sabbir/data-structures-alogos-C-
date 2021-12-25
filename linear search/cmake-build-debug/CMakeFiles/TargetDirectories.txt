@@ -1,0 +1,3 @@
+/home/sabbir/CLionProjects/data-structure&alogos-C++/linear search/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sabbir/CLionProjects/data-structure&alogos-C++/linear search/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sabbir/CLionProjects/data-structure&alogos-C++/linear search/cmake-build-debug/CMakeFiles/linear_search.dir
